@@ -3,4 +3,4 @@
 Построенный алгоритм имеет значение метрики ROC AUC = 0.9    
 Больше деталей можно найти в juputer notebook
 
-
+![Важность признаков](https://github.com/DrEternity/Modeling-neurological-disease/blob/main/feature_importance.png)
